@@ -1,0 +1,11 @@
+{
+  "name": "log-up-back-end",
+  "version": "1.0.0",
+  "description": "Today we'll be making the back end of our app.",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha -w main.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
